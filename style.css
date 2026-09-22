@@ -37,6 +37,7 @@ body {
 }
 .card:hover{
   text-shadow: 2px 2px 4px #8d5c00;
+  box-shadow: 2px 2px #8d5c00;
 }
 .card:hover .avatar{
     box-shadow: 2px 2px 4px #8d5c00;
